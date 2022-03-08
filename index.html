@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Przelicz walutę</title>
+    <meta name="title" property="og:title" content="Przelicznik waut" />
+    <meta name="description" content="Opis przykładowego projektu - może pokazać się w Google" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="css/body.css" rel="stylesheet">
+    <link href="css/section.css" rel="stylesheet">
+    <link href="css/form.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMontserrat:400,700&display=swap&subset=latin-ext"
+        rel="stylesheet" />
+    <script defer src="js/form.js"></script>
+</head>
+
+<body class="body">
+    <div class="container">
+        <form class="js-form">
+            <fieldset class="form__fieldset">
+                <h1 class="form__header">
+                    Przelicznik walut
+                </h1>
+                <p class="form_row">
+                    <span class="form_text"> Wybierz walutę, którą chcesz sprzedać:</span>
+                    <select name="curency" class="form_select js-selectFirst">
+                        <option value="PLN">PLN</option>
+                        <option value="EUR">EUR</option>
+                    </select>
+
+                    <label>
+                        <p class="form_row">
+                            <span class="form__labelText form_text"> Podaj kwotę*:</span>
+                            <input placeholder="Wpisz kwotę" class="js-amount" type="number" name="input" step="0.01"
+                                required>
+                        </p>
+                    </label>
+                </p>
+
+                <p class="form_row">
+                    <span class="form_text"> Wybierz walutę, którą chcesz kupić:</span>
+                    <select name="curency" class="form_select js-selectSecond">
+                        <option value="EUR">EUR</option>
+                        <option value="PLN">PLN</option>
+                    </select>
+                </p>
+
+                <p>
+                    <button class="form_button js-button" type="submit">
+                        Przelicz
+                    </button>
+                </p>
+
+                <p class="form_result"> Kwota <strong class="js-value" type="number" readonly>N/a</strong></p>
+            </fieldset>
+        </form>
+    </div>
+</body>
+
+</html>

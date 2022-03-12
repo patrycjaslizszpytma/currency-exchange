@@ -1,18 +1,19 @@
 .form__header {
     text-align: center;
-    color: #085e25;
+    color: rgb(31, 120, 60);
     text-shadow: 1px 1px #0531149f;
 }
 
 .form__fieldset {
-    border: 5px solid rgb(10, 107, 23);
+    border: 5px solid rgb(31, 120, 60);
     border-radius: 10px;
     padding: 60px;
     max-width: 50%;
     margin: auto;
-    background-color: hsla(128, 35%, 39%, 0.068);
+    background-color: hsla(130, 43%, 3%, 0.884);
     line-height: 3;
-
+    color: rgba(255, 255, 255, 0.767);
+    font-size: 17px;
 }
 
 .form_row {
@@ -30,7 +31,7 @@
 
 .form__labelText {
     width: 100%;
-    max-width: 100px;
+    max-width: 200px;
     display: inline-block;
 
 }
@@ -45,7 +46,7 @@
     margin-top: 20px;
     padding: 10px;
     width: 100%;
-    background-color: rgb(10, 107, 23);
+    background-color: rgb(31, 120, 60);
     border-radius: 20px;
     color: #fff;
     border-color: none;
@@ -60,7 +61,7 @@
 }
 
 .form_result {
-    color: rgb(10, 107, 23);
+    color: rgba(255, 255, 255, 0.753);
     text-align: center;
     font-size: 20px;
 }

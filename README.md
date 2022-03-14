@@ -4,7 +4,8 @@
 The website allows you to check the exchange rate of selected currencies.
 It consists of a form in which you should choose the currency you are interested in, the value and the currency you want to buy.
 
-![cantor-exchange.png](https://i.postimg.cc/Hkygg0fP/cantor-exchange.png | width=100)
+![cantor-exchange.png](https://i.postimg.cc/Hkygg0fP/cantor-exchange.png)
+<img src=(https://i.postimg.cc/Hkygg0fP/cantor-exchange.png" width="100" height="100">
 
 
 

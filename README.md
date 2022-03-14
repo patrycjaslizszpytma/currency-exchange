@@ -3,7 +3,7 @@
 ## Table of contents
 * [About_The_Project](#About The Project)
 * [Technologies](#Technologies)
-* [Link to the site](#Link to the site)
+* [Link to the site](#Link)
 
 ## About The Project
 The website allows you to check the exchange rate of selected currencies.
@@ -15,6 +15,6 @@ It consists of a form in which you should choose the currency you are interested
 ## Technologies
 Major frameworks/libraries used to bootstrap this project. 
 
-### Link to the site
+### Link
 [click here to check it out] https://patrycjaslizszpytma.github.io/currency-exchange/
 

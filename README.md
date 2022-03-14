@@ -1,7 +1,7 @@
 # Currency exchange <img src="./images/KANTOR.png"  height="300">
 
 ## Table of contents
-* [About_The_Project](#About The Project)
+* [About_The_Project](#About)
 * [Technologies](#Technologies)
 * [Link to the site](#Link)
 
@@ -15,6 +15,6 @@ It consists of a form in which you should choose the currency you are interested
 ## Technologies
 Major frameworks/libraries used to bootstrap this project. 
 
-### Link
+### Link to the site
 [click here to check it out] https://patrycjaslizszpytma.github.io/currency-exchange/
 

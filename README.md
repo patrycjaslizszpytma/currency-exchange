@@ -16,5 +16,5 @@ It consists of a form in which you should choose the currency you are interested
 Major frameworks/libraries used to bootstrap this project. 
 
 ### Link to the site
-![click here to check it out](https://patrycjaslizszpytma.github.io/currency-exchange/)
+https://patrycjaslizszpytma.github.io/currency-exchange/
 

@@ -1,7 +1,7 @@
-# Currency exchange <img src="./images/KANTOR.png"  height="300">
+<img src="./images/KANTOR.png">
 
 ## Table of contents
-* [About_The_Project](#About)
+* [About the project](#About)
 * [Technologies](#Technologies)
 * [Link to the site](#Link)
 

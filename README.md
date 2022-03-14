@@ -1,5 +1,4 @@
-# Currency exchange
-<img src="./images/KANTOR.png" width="100" height="100">
+# Currency exchange <img src="./images/KANTOR.png" >
 
 ## About The Project
 The website allows you to check the exchange rate of selected currencies.
